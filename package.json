@@ -1,0 +1,11 @@
+{
+  "name": "webapp_project",
+  "version": "1.0.0",
+  "description": "A web application that uses a database using MEVN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "mdbandi123",
+  "license": "ISC"
+}
